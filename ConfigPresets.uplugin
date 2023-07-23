@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ConfigPresets",
+	"Description": "Save Project Configurations and switch between them",
+	"Category": "Other",
+	"CreatedBy": "Bargest",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ConfigPresets",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
